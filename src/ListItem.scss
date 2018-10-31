@@ -1,0 +1,22 @@
+
+
+.icon {
+    margin: 0.3rem;
+    color: burlywood;
+    cursor: pointer;
+
+    &:hover {
+        color:antiquewhite;
+    }
+
+}
+
+.styleSort {
+    color: darkgrey;
+    margin: 0 6px 0 3px;
+    cursor: pointer;
+
+    &:hover {
+        color: greenyellow;
+    }
+}
